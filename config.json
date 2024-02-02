@@ -1,0 +1,8 @@
+{
+    "domain":"http://localhost:3000",
+    "dbConnectionString":"mongodb+srv://ios20:hbKpErY6U7x6C2R5@cluster0.8hlba91.mongodb.net/Sport_01",
+    "secretKey":")(*@JHljhLAKJHDKLASJHDLIueo8u2eljhsadlho28uOU!O*UO@UOIjhlhl",
+    "validateFormat":{
+        "minPasswordLength":6
+    }
+}
